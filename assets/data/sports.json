@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Futebol",
+    "image": "assets/images/futebol.png",
+    "description": "Esporte coletivo jogado entre duas equipes de onze jogadores com uma bola, cujo objetivo é marcar gols no time adversário.",
+    "popularity": 95
+  },
+  {
+    "id": 2,
+    "name": "Basquete",
+    "image": "assets/images/basquete.png",
+    "description": "Esporte coletivo em que duas equipes tentam marcar pontos arremessando a bola na cesta do adversário.",
+    "popularity": 90
+  },
+  {
+    "id": 3,
+    "name": "Tênis",
+    "image": "assets/images/tenis.png",
+    "description": "Esporte praticado individualmente ou em duplas, onde os jogadores usam raquetes para rebater a bola sobre uma rede.",
+    "popularity": 80
+  },
+  {
+    "id": 4,
+    "name": "Beisebol",
+    "image": "assets/images/beisebol.png",
+    "description": "Esporte coletivo em que duas equipes se revezam entre ataque e defesa, tentando marcar corridas ao percorrer bases.",
+    "popularity": 70
+  },
+  {
+    "id": 5,
+    "name": "Vôlei",
+    "image": "assets/images/volei.png",
+    "description": "Esporte coletivo jogado entre duas equipes de seis jogadores, que tentam fazer a bola tocar no chão do campo adversário.",
+    "popularity": 85
+  }
+]
